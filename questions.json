@@ -1,0 +1,55 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "London", "Paris", "Madrid"]
+      },
+      {
+        "id": 2,
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Mars", "Venus", "Jupiter", "Saturn"]
+      },
+      {
+        "id": 3,
+        "question": "What is the largest mammal on Earth?",
+        "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"]
+      },
+      {
+        "id": 4,
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"]
+      },
+      {
+        "id": 5,
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Mitochondria", "Endoplasmic Reticulum", "Golgi Apparatus"]
+      },
+      {
+        "id": 6,
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Osmium", "Oganesson", "Octagon"]
+      },
+      {
+        "id": 7,
+        "question": "Who is known as the 'Father of Computer Science'?",
+        "options": ["Alan Turing", "Ada Lovelace", "Charles Babbage", "Bill Gates"]
+      },
+      {
+        "id": 8,
+        "question": "Which mountain is the highest in the world?",
+        "options": ["K2", "Kangchenjunga", "Mount Everest", "Lhotse"]
+      },
+      {
+        "id": 9,
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"]
+      },
+      {
+        "id": 10,
+        "question": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Niels Bohr"]
+      }
+    ]
+  }
+  
